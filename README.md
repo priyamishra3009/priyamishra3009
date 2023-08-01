@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **priyamishra3009@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lS2CnbG8AN4_ImwRCfviCHpny8858dlH/view?usp=sharing](https://drive.google.com/file/d/1lS2CnbG8AN4_ImwRCfviCHpny8858dlH/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1USzX5iTv3JMDmYlAlFeh-drb3eNMg9I0/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
