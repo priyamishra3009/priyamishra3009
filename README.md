@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya Mishra</h1>
 <h3 align="center">IIITian | Flutter Developer | Problem-Solving Entusiast from India</h3>
 
-<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
+<img align="right" alt="coding" width="350" height="250" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyamishra3009&label=Profile%20views&color=0e75b6&style=flat" alt="priyamishra3009" /> </p>
 
