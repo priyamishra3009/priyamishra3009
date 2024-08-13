@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya Mishra</h1>
 <h3 align="center">IIITian | Flutter Developer | Problem-Solving Entusiast from India</h3>
 
-<img align="right" alt="coding" width="350" height="250" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
+<img align="right" alt="coding" width="350" height="250" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyamishra3009&label=Profile%20views&color=0e75b6&style=flat" alt="priyamishra3009" /> </p>
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priya mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/priyamishra002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyamishra002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priya mishra" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="priya mishra" height="80" width="80" /></a>
+<a href="https://instagram.com/priyamishra002" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="priyamishra002" height="80" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
